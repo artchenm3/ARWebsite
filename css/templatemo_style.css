@@ -23,11 +23,11 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', Arial, Helvetice Neue, sans-s
 #about .section-title { border-color: #e09d1a; }
 #about h2 { background-color: #e9b144; }
 
-#services .section-title { border-color: #7c1fe5; }
-#services h2 { background-color: #974dea; }
+#hinoki .section-title { border-color: #7c1fe5; }
+#hinoki h2 { background-color: #974dea; }
 
-#portfolio .section-title { border-color: #1dcb7c; }
-#portfolio h2 { background-color: #38e395; }
+#product .section-title { border-color: #1dcb7c; }
+#product h2 { background-color: #38e395; }
 
 #contact .section-title { border-color: #cb1d62; }
 #contact h2 { background-color: #e3387c; }
@@ -67,11 +67,11 @@ li.home a.active { color: #38a9e3; }
 li.about a { border-color: #e9b144; }
 li.about a.active { color: #e9b144; }
 
-li.services a { border-color: #974dea; }
-li.services a.active { color: #974dea; }
+li.hinoki a { border-color: #974dea; }
+li.hinoki a.active { color: #974dea; }
 
-li.portfolio a { border-color: #38e395; }
-li.portfolio a.active { color: #38e395; }
+li.product a { border-color: #38e395; }
+li.product a.active { color: #38e395; }
 
 li.contact a { border-color: #e3387c; }
 li.contact a.active { color: #e3387c; }
